@@ -1,7 +1,3 @@
-# wplace-16x16-converter
-Turn any image into a high-detail 16x16 pixel art profile picture for Wplace with maximum RGB color depth.
-
-
 # Wplace 16x16 Max-Color Pixel Art Converter
 
 Turn any image into a high-detail 16x16 pixel art profile picture using the maximum possible RGB color depth (up to 256 unique shades).
