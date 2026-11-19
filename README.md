@@ -17,5 +17,6 @@ Turn any image into a high-detail 16x16 pixel art profile picture using the maxi
 3. **Prepare your files:** Download the Python script from this page and place it in the **exact same folder** as your image.
 4. **Rename your image:** Rename your image file to `my_picture.png` *(Make sure it is a `.png` file and spelled exactly like that!)*.
 5. **Run the script:** Open the script and press Run. Your new pixel art will appear in the same folder as `wplace_max_color_16x16.png`.
+6. **Upload to Wplace:** Go to the **Draw profile picture** screen in Wplace on your laptop/PC, click the **upload button (the icon with the arrow pointing up)** in the bottom-right corner, and select `wplace_max_color_16x16.png`.
 
 > **Note:** If you want to use a `.jpg` file or a different filename, simply change `"my_picture.png"` at the bottom of the script to match your exact filename.
